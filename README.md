@@ -1,26 +1,23 @@
 # Metacommerce
 ============
-
 MetaCommerce é uma loja virtual livre, baseada em FuelPHP e com código fonte otimizado para o Marketing Digital e SEO.
 
 http://demo.metacommerce.com.br
 
-## Como Instalar?
+## Como Instalar
 
-Criar um banco de dados MySQL
-Importar o arquivo _metacommerce.sql no banco de dados criado
-Configurar a conexão no FuelPHP
-Sua loja está pronta para vender!
-Para acessar a frente de loja, entre na pasta public_html através do servidor web
-Para acessar a área administrativa acesse /adm no final da URL.
-Para enviar/receber e-mails configure o arquivo config/email.php
-Dados para acesso administrativo: suporte@metacommerce.com.br - 123
-
+Criar um banco de dados MySQL. <br>
+Importar o arquivo _metacommerce.sql no banco de dados criado <br>
+Configurar a conexão no FuelPHP <br>
+Sua loja está pronta para vender! <br>
+Para acessar a frente de loja, entre na pasta public_html através do servidor web <br>
+Para acessar a área administrativa acesse /adm no final da URL. <br>
+Para enviar/receber e-mails configure o arquivo config/email.php <br>
+Dados para acesso administrativo: suporte@metacommerce.com.br - 123 <br>
 
 ## The MIT License
 
 Copyright (c) 2014  MetaCommerce Development Team
-http://metacommerce.com.br
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), 
 to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, 
